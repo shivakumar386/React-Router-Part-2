@@ -1,0 +1,14 @@
+.user-container {
+  text-align: center;
+}
+
+.user-logo {
+  height: 120px;
+  width: 120px;
+}
+
+.user-heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+}
